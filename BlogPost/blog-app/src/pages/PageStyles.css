@@ -1,0 +1,48 @@
+.page {
+  text-align: center;
+}
+
+.page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 15px;
+  color: #357ABD;
+}
+
+.page p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  background: #fff;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.post-list li a {
+  text-decoration: none;
+  color: #357ABD;
+  font-weight: bold;
+}
+
+.post-list li a:hover {
+  text-decoration: underline;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 15px;
+  color: #357ABD;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}

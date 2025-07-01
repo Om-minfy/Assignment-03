@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "basic-user-authentication-app",
+    "medium": "robust-auth-app"
+  },
+  "targets": {},
+  "etags": {}
+}
